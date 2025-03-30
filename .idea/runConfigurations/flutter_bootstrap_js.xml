@@ -1,5 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="flutter_bootstrap.js" type="NodeJSConfigurationType" singleton="false" path-to-node="$APPLICATION_CONFIG_DIR$/node/versions/22.13.1/node" nameIsGenerated="true" path-to-js-file="flutter_bootstrap.js" working-dir="$PROJECT_DIR$">
-    <method v="2" />
-  </configuration>
-</component>
